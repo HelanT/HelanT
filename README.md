@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helant&label=Profile%20views&color=0e75b6&style=flat" alt="helant" /> </p>
 
-- 🌱 I’m currently learning **React to build dynamic web applications,Docker,Kubernetes**
+- 🌱 I’m currently learning **To Develop Web Mobile Applications**
 
-- 💬 Ask me about **Java,GitHub,MySQL**
+- 💬 Ask me about **Java,JavaScript,HTML,CSS,SpringFrameworks,GitHub,MySQL**
 
-- 📫 How to reach me **helanthapamagar@gmail.com**
+- 📫 How to reach me **helanthapamagar056@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
